@@ -1,0 +1,69 @@
+.day {
+    line-height: 22px;
+    height: 19px;
+}
+.dayMarker {
+    background-color: #777;
+    border-radius: 50%;
+    height: 4px;
+    margin: -1px auto 3px;
+    width: 4px;
+}
+.calendarCheckboxes {
+    .webix_custom_checkbox {
+        margin-top: -1px;
+    }
+    .personalCh {
+        .webix_checkbox_1 {
+            .webix_custom_checkbox {
+                color: #8664c6;
+            }
+        } 
+    }
+    .publicCh {
+        .webix_checkbox_1 {
+            .webix_custom_checkbox {
+                color: #55cd97;
+            }
+        } 
+    }
+    .birthdayCh {
+        .webix_checkbox_1 {
+            .webix_custom_checkbox {
+                color: #fdbf4c;
+            }
+        }  
+    }
+    .holidaysCh {
+        .webix_checkbox_1 {
+            .webix_custom_checkbox {
+                color: #ff5c4c;
+            }
+        }
+    }
+    .meetingCh {
+        .webix_checkbox_1 {
+            .webix_custom_checkbox {
+                color: #56ccf2;
+            }
+        }
+    }
+}
+.personal {
+    background-color: #8664c6;
+}
+.public {
+    background-color: #55cd97;
+}
+.birthday {
+    background-color: #fdbf4c;
+}
+.holidays {
+    background-color: #ff5c4c;
+}
+.meeting {
+    background-color: #56ccf2;
+}
+.webix_cal_select .dayMarker {
+    background-color: #fff;
+}

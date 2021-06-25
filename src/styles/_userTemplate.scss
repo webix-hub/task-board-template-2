@@ -1,0 +1,29 @@
+.webix_toolbar { 
+    .user {
+        cursor: pointer;
+        .webix_template {
+            padding: 0;
+            display: flex;
+        }
+    }
+    .userInner {
+        display: flex;
+        align-items: center;
+    }
+    .userAvatar {
+        width: 44px;
+        height: 44px;
+        margin-right: 12px;
+    }
+    .userImage {
+        display: block;
+        border-radius: 50%;
+        width: 44px;
+        height: 44px;
+    }
+    .userName {
+        display: flex;
+        align-items: center;
+        user-select: none; 
+    }
+}

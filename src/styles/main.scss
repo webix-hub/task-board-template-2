@@ -1,0 +1,39 @@
+@import "header";
+@import "sidebar";
+@import "userTemplate";
+@import "supportTicket";
+@import "calendar";
+@import "activity";
+@import "invoices";
+
+.pointer {
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+}
+
+.flexCol {
+    flex-direction: column;
+}
+
+.spaceBetween {
+    justify-content: space-between;
+}
+
+.strong {
+    font-weight: 500;
+}
+
+.ellipsis {
+    overflow: hidden;
+    display: block;
+    text-overflow: ellipsis;
+    width: 100%;
+}
+.subText {
+    font-size: 12px;
+    line-height: 16px;
+    color: #94A1B3;
+}
