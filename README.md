@@ -3,7 +3,7 @@ Webix Task Board Template 2
 
 Check the Task Board Template 2 web template for the Webix UI library.
 
-[Task Board Template 2](https://webix-hub.github.io/task-board-template-2/dist/es5/index.html).
+[Task Board Template 2 live demo](https://webix-hub.github.io/task-board-template-2/dist/es5/index.html).
 
 Use this template as a part of a business solution with the following features:
 
